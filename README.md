@@ -1,2 +1,5 @@
-# locale
-sensin 前端团队的常量项目
+# locales
+
+sensin 的常量管理统一管理
+
+> git submodule update --remote

@@ -7,5 +7,6 @@ export default {
   CANCEL_BTN: '取消',
   SAVE_BTN: '保存',
   OK_BTN: '确定',
+  SUBMIT_BTN: '提交',
   PHONE: '手机号码',
 };

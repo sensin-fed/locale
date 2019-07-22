@@ -1,5 +1,5 @@
 export default {
-  DELETE_CONFIRM: '你确定要删除吗?',
-  DISABLE_CONFIRM: '你确定要禁用吗？',
-  ENABLE_CONFIRM: '你确定要启用吗？',
+  CONFIRM_DELETE: '你确定要删除吗?',
+  CONFIRM_DISABLE: '你确定要禁用吗？',
+  CONFIRM_ENABLE: '你确定要启用吗？',
 };

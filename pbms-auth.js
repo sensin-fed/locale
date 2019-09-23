@@ -26,6 +26,7 @@ export default {
   PBMS_MENU_DISABLE: 'pbms_menuAction_disable',
   PBMS_MENU_ENABLE: 'pbms_menuAction_enable',
   PBMS_MENU_UPDATE: 'pbms_menuAction_update',
+  PBMS_MENU_FLUSH: 'pbms_menuAction_flush',
   PBMS_ROLE_ALL: 'pbms_role_all',
   PBMS_ROLE_CREATE: 'pbms_role_create',
   PBMS_ROLE_DETAIL: 'pbms_role_detail',

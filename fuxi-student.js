@@ -4,17 +4,19 @@ export default {
   // 手机号
   TELPHONE: 'phone',
   // 报名项目
-  SIGN_PROJECT: 'projectId',
+  SIGN_PROJECT_ID: 'projectId',
+  SIGN_PROJECT_NAME: 'projectName',
   // 套餐
-  PACKAGE: 'projectPackageId',
+  PACKAGE_ID: 'projectPackageId',
+  PACKAGE_NAME: 'projectPackageName',
   // 复学时间
-  TIME_OF_RETURN_TO_SCHOOL: 'returnDate',
+  TIME_OF_RETURN_TO_SCHOOL: 'returnDateList',
   // 支付金额
   PAYMENT_AMOUNT: 'payPrice',
   // 退款金额
-  REFUND_AMOUNT: 'reducePrice',
+  REFUND_AMOUNT: 'reducePriceList',
   // 退款原因
-  REASONFOR_RETURN: 'reduceReasonId',
+  REASONFOR_RETURN: 'reduceReasonList',
   // 结课类型
   COURSE_TYPE: 'endClassType',
   // 服务起始时间
@@ -40,9 +42,9 @@ export default {
   // 目标工作地点
   TARGET_WORK_LOCATION: 'workCity',
   // 当月选课
-  SELECTED_CLASS_INTHEMONTH: 'selectedCourseInTheMouth',
+  SELECTED_CLASS_INTHEMONTH: 'selectedCourseInTheMonthList',
   // 当月课程
-  CURRENT_MONTH_COURSE: 'theCourseInTheMouth',
+  CURRENT_MONTH_COURSE: 'theCourseInTheMonth',
   // 1v1消课
   ONEVSONE_CLASS_ELIMINATION: 'oneVsOneClosed',
   // 小班课消课

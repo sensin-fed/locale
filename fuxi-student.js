@@ -44,7 +44,7 @@ export default {
   // 当月选课
   SELECTED_CLASS_INTHEMONTH: 'selectedCourseInTheMonthList',
   // 当月课程
-  CURRENT_MONTH_COURSE: 'theCourseInTheMonth',
+  CURRENT_MONTH_COURSE: 'courseSelection',
   // 1v1消课
   ONEVSONE_CLASS_ELIMINATION: 'oneVsOneClosed',
   // 小班课消课

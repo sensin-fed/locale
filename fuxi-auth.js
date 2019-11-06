@@ -21,7 +21,7 @@ export default {
   ULMS_SUPERVISOR_REASON_REFUND_ALL: 'ulms_supervisor_reason_refund_all',
   ULMS_SUPERVISOR_SMALLCOURSE_ALL: 'ulms_supervisor_smallCourse_all',
   ULMS_SUPERVISOR_SMALLCOURSEINTIMETABLE: 'ulms_supervisor_smallCourseInTimetable',
-  ULMS_SUPERVISOR_COURSE_DELETE: 'ulms_supervisor_course_delete',
+  ULMS_SUPERVISOR_TASK_DELETE: 'ulms_supervisor_task_delete',
   ULMS_SUPERVISOR_TASK_INSERT: 'ulms_supervisor_task_insert',
   ULMS_SUPERVISOR_TASK_LIST: 'ulms_supervisor_task_list',
   ULMS_SUPERVISOR_TASK_UPDATE: 'ulms_supervisor_task_update',

@@ -42,4 +42,19 @@ export default {
   // ULMS_TUTOR:'ulms_tutor',
   // ULMS_TUTOR_COMPENSATE:'ulms_tutor_compensate',
   // ULMS_TUTOR_DRAWBACK:'ulms_tutor_drawback',
+  // 排课
+  ULMS_TIMETABLE_CREATE: 'ulms_timetable_create',
+  ULMS_TIMETABLE_DELETE: 'ulms_timetable_delete',
+  ULMS_TIMETABLE_EDIT: 'ulms_timetable_edit',
+  ULMS_TIMETABLE_SEND: 'ulms_timetable_send',
+  ULMS_TIMETABLE_TIMETABLECOURSEINFO_UPDATE: 'ulms_timetable_timetablecourseinfo_update',
+  // 约课
+  ULMS_APPOINTMENT_ARRANGEMENT: 'ulms_appointment_arrangement',
+  ULMS_APPOINTMENT_INFO: 'ulms_appointment_info',
+  // 项目管理
+  ULMS_PROJECT_CREATE: 'ulms_project_create',
+  ULMS_PROJECT_UPDATE: 'ulms_project_update',
+  ULMS_PROJECT_DELETE: 'ulms_project_delete',
+  // 项目套餐管理
+  ULMS_PROJECTPACKAGE_CREATE: 'ulms_projectpackage_create',
 };

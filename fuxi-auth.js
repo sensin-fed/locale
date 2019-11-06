@@ -57,7 +57,16 @@ export default {
   ULMS_PROJECT_DELETE: 'ulms_project_delete',
   // 项目套餐管理
   ULMS_PROJECTPACKAGE_CREATE: 'ulms_projectpackage_create',
-  //
+  ULMS_PROJECTPACKAGE_DELETE: 'ulms_projectpackage_delete',
+  ULMS_PROJECTPACKAGE_UPDATE: 'ulms_projectpackage_update',
+  ULMS_PROJECTPACKAGE_DISABLE: 'ulms_projectpackage_disable',
+  ULMS_PROJECTPACKAGE_ENABLE: 'ulms_projectpackage_enable',
+  // 教学计划模板
+  ULMS_TEACHINGPLANTEMPLATE_TEMPLATE_INSERT: 'ulms_teachingplantemplate_template_insert',
+  ULMS_TEACHINGPLANTEMPLATE_TEMPLATE_UPDATE: 'ulms_teachingplantemplate_template_update',
+  ULMS_TEACHINGPLANTEMPLATE_TEMPLATE_DELETE: 'ulms_teachingplantemplate_template_delete',
+  ULMS_TEACHINGPLANTEMPLATE_TEMPLATE_DISABLE: 'ulms_teachingplantemplate_template_disable',
+  ULMS_TEACHINGPLANTEMPLATE_TEMPLATE_ENABLE: 'ulms_teachingplantemplate_template_enable',
   // 入学管理
   ULMS_ADMISSION_LIST: 'ulms_admission_list',
   ULMS_ADMISSION_INFO: 'ulms_admission_info',

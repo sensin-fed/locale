@@ -25,6 +25,7 @@ export default {
   ULMS_SUPERVISOR_TASK_INSERT: 'ulms_supervisor_task_insert',
   ULMS_SUPERVISOR_TASK_LIST: 'ulms_supervisor_task_list',
   ULMS_SUPERVISOR_TASK_UPDATE: 'ulms_supervisor_task_update',
+  ULMS_SUPERVISOR_TASK_DELETE: 'ulms_supervisor_task_delete',
   ULMS_SUPERVISOR_TEACHINGPLAN_DETAIL: 'ulms_supervisor_teachingPlan_detail',
   ULMS_SUPERVISOR_TIMETABLE_ALL: 'ulms_supervisor_timetable_all',
   // 课程反馈管理
